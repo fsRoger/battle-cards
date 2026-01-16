@@ -1,0 +1,48 @@
+// Armadilhas
+  // {
+  //   name: "Espelhos Mágicos",
+  //   type: CardType.TRAP,
+  //   effect: "Reflete próximo ataque",
+  //   image: "espelhos-magicos.jpg",
+  // },
+  // {
+  //   name: "Buraco Negro",
+  //   type: CardType.TRAP,
+  //   effect: "Destrói todas as cartas",
+  //   image: "buraco-negro.jpg",
+  // },
+  // {
+  //   name: "Escudo de Luz",
+  //   type: CardType.TRAP,
+  //   effect: "Anula dano mágico",
+  //   image: "escudo-de-luz.jpg",
+  // },
+  // {
+  //   name: "Contra-Ataque",
+  //   type: CardType.TRAP,
+  //   effect: "Dobra dano de retorno",
+  //   image: "contra-ataque.jpg",
+  // },
+
+  //magia
+  // {
+  //   name: "Maldição Sombria",
+  //   type: CardType.SPELL,
+  //   element: "Trevas",
+  //   effect: "Reduz ATK em 3",
+  //   image: "maldicao-sombria.jpg",
+  // },
+  //   {
+  //   name: "Oceano Profundo",
+  //   type: CardType.TERRAIN,
+  //   element: "Água",
+  //   effect: "Água +2 DEF",
+  //   image: "oceano-profundo.jpg",
+  // },
+  //   {
+  //   name: "Céu Tempestuoso",
+  //   type: CardType.TERRAIN,
+  //   element: "Vento",
+  //   effect: "Vento +2 velocidade",
+  //   image: "ceu-tempestuoso.jpg",
+  // },
